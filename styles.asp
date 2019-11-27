@@ -1,0 +1,23 @@
+<style>
+BODY {
+	BACKGROUND-COLOR: #070E5A
+}
+.fundo1{
+	BACKGROUND-COLOR: #CCCCCC
+}
+.fundo2{
+	BACKGROUND-COLOR: #ffffff
+}
+.fundo3{
+	BACKGROUND-COLOR: #E8E4DA
+}
+.fundo4{
+	BACKGROUND-COLOR: #070E5A
+}
+.fundo5{
+	BACKGROUND-COLOR: #ffffff
+}
+.fundo6{
+	BACKGROUND-COLOR: #CCCCCC
+}
+</style>
